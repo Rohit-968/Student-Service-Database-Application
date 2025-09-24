@@ -1,4 +1,4 @@
-# 🗄️ Student Service Database Application(SQL Project)
+# 🗄️ Student Service Database Application(SQL)
 
 ## 📌 Project Overview
 
